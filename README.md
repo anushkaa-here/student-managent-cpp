@@ -1,2 +1,13 @@
-# student-managent-cpp
-A console-based Student Management System built using C++ and STL. It allows users to add, view, search, and delete student records through a menu-driven interface.
+# Student Management System (C++)
+A console-based application built using C++ and STL that allows users to manage student records.
+
+## Features
+- Add student
+- View all students
+- Search student by ID
+- Delete student
+
+## Concepts Used
+- Structures
+- Vectors (STL)
+- Loops and Conditional Statements
